@@ -1,4 +1,6 @@
 <svg xmlns="http://www.w3.org/2000/svg">
+	<defs>
+
 <symbol id="text">
 	<text x="0" y="230" font-size="300" font-family="Bowlby One SC" fill="#ffffff" textLength="100%" lengthAdjust="spacingAndGlyphs">MASK</text>
 	<text x="0" y="455" font-size="300" font-family="Bowlby One SC" fill="#ffffff" textLength="100%" lengthAdjust="spacingAndGlyphs">WITH</text>
@@ -9,5 +11,6 @@
 
   <image xlink:href="placeimg_700_700.jpg" x="0" y="0"/>
 </symbol>
+</defs>
 
 </svg>
