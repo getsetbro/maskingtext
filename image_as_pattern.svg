@@ -1,7 +1,7 @@
 <svg viewBox="0 0 386 287" preserveAspectRatio="xMidYMid" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
   <defs>
     <pattern id="pattern" patternUnits="userSpaceOnUse" width="100%" height="100%">
-      <image xlink:href="http://joeleby.com/img/joel.png" width="450" height="675" x="-4" y="-65"></image>
+      <image xlink:href="//joeleby.com/img/joel.png" width="450" height="675" x="-4" y="-65"></image>
     </pattern>
   </defs>
   <g fill="url(#pattern)">

@@ -11,5 +11,5 @@
     </mask>
   </defs>
 
-  <image xlink:href="http://joeleby.com/img/joel.png" width="435" height="652.5" mask="url(#mask0)" y="-58" x="0"/>
+  <image xlink:href="//joeleby.com/img/joel.png" width="435" height="652.5" mask="url(#mask0)" y="-58" x="0"/>
 </svg>
