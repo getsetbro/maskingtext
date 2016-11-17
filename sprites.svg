@@ -4,4 +4,10 @@
 	<text x="0" y="455" font-size="300" font-family="Bowlby One SC" fill="#ffffff" textLength="100%" lengthAdjust="spacingAndGlyphs">WITH</text>
 	<text x="0" y="680" font-size="300" font-family="Bowlby One SC" fill="#ffffff" textLength="100%" lengthAdjust="spacingAndGlyphs">TEXT</text>
 </symbol>
+
+<symbol id="mask">
+
+  <image xlink:href="placeimg_700_700.jpg" x="0" y="0"/>
+</symbol>
+
 </svg>
