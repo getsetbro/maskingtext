@@ -1,7 +1,7 @@
 <svg xmlns="http://www.w3.org/2000/svg">
 <symbol id="text">
-	<text x="0" y="230" font-size="300" font-family="Bowlby One SC" textLength="100%" lengthAdjust="spacingAndGlyphs">MASK</text>
-	<text x="0" y="455" font-size="300" font-family="Bowlby One SC" textLength="100%" lengthAdjust="spacingAndGlyphs">WITH</text>
-	<text x="0" y="680" font-size="300" font-family="Bowlby One SC" textLength="100%" lengthAdjust="spacingAndGlyphs">TEXT</text>
+	<text x="0" y="230" font-size="300" font-family="Bowlby One SC" fill="#444444" textLength="100%" lengthAdjust="spacingAndGlyphs">MASK</text>
+	<text x="0" y="455" font-size="300" font-family="Bowlby One SC" fill="#444444" textLength="100%" lengthAdjust="spacingAndGlyphs">WITH</text>
+	<text x="0" y="680" font-size="300" font-family="Bowlby One SC" fill="#444444" textLength="100%" lengthAdjust="spacingAndGlyphs">TEXT</text>
 </symbol>
 </svg>
